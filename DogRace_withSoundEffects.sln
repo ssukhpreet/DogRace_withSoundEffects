@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.489
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DogRace_withSoundEffects", "DogRace_withSoundEffects\DogRace_withSoundEffects.csproj", "{9414EC3E-780F-4BC9-8D6A-6DD21EE7C763}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DogRace_withSoundEffectsTests", "DogRace_withSoundEffectsTests\DogRace_withSoundEffectsTests.csproj", "{300B6E47-B4BF-4307-AE3E-071DE956BF9A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9414EC3E-780F-4BC9-8D6A-6DD21EE7C763}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9414EC3E-780F-4BC9-8D6A-6DD21EE7C763}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9414EC3E-780F-4BC9-8D6A-6DD21EE7C763}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9414EC3E-780F-4BC9-8D6A-6DD21EE7C763}.Release|Any CPU.Build.0 = Release|Any CPU
+		{300B6E47-B4BF-4307-AE3E-071DE956BF9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{300B6E47-B4BF-4307-AE3E-071DE956BF9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{300B6E47-B4BF-4307-AE3E-071DE956BF9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{300B6E47-B4BF-4307-AE3E-071DE956BF9A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {79DC1D8F-8B3D-4942-B3F7-DE5246397ED9}
+	EndGlobalSection
+EndGlobal
